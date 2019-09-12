@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 970px;
+    height: 100%;
+    border: 3px black solid;
+
+}
+
+.wrapper h1{
+    font-family:sans-serif; 
+    margin-left: 280px;
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+#container{
+    margin: 55px 10px 70px 10px;
+
+}
+#container img{
+    width: 128px;
+    height: 128px;
+    border: 3px black solid;
+    margin: 10px;
+}
